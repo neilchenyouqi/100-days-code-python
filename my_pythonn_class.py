@@ -1,3 +1,4 @@
+# this is my python class
 import random
 computerrps = "start"
 computerchoice = str(random.randint(1 ,3))
