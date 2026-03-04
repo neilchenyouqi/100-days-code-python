@@ -10,3 +10,4 @@ elif computerchoice == "3":
     computerrps = "scissors"
 
 print(computerrps)
+www.google.com
